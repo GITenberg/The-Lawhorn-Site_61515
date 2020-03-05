@@ -1,0 +1,26 @@
+_repo: The-Lawhorn-Site_61515
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moselage, John
+    gutenberg_agent_id: '51470'
+    url: http://www.gutenberg.org/2009/agents/51470
+description: ''
+gutenberg_issued: '2020-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'The Missouri Archaeologist, Volume 24: December 1962'
+subjects:
+- !lcsh 'Craighead County (Ark.) -- Antiquities'
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Arkansas -- Craighead County -- Antiquities'
+- !lcsh 'Excavations (Archaeology) -- Arkansas'
+- !lcc 'F396'
+- GITenberg
+title: The Lawhorn Site
+url: http://www.gutenberg.org/ebooks/61515
